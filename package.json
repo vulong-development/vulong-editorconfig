@@ -1,0 +1,17 @@
+{
+  "name": "vulong-editorconfig",
+  "version": "1.0.0",
+  "description": "editorconfig configuration file",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "editorconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vulong-development/vulong-editorconfig.git"
+  },
+  "author": "Vulong Development <mail@vulong.ru>",
+  "license": "ISC"
+}
