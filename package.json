@@ -1,5 +1,5 @@
 {
-  "name": "@Vulong-development\vulong-editorconfig",
+  "name": "@Vulong-development/vulong-editorconfig",
   "version": "1.0.0",
   "description": "editorconfig configuration file",
   "scripts": {
