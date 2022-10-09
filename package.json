@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/Vulong-development/vulong-editorconfig.git"
   },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com/Vulong-development"
+},
   "author": "Vulong Development <mail@vulong.ru>",
   "license": "ISC"
 }
