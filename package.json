@@ -1,5 +1,5 @@
 {
-  "name": "vulong-editorconfig",
+  "name": "@Vulong-development/vulong-editorconfig",
   "version": "1.0.2",
   "description": "editorconfig configuration file",
   "scripts": {
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vulong-development/vulong-editorconfig.git"
+    "url": "Vulong-development/vulong-editorconfig"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/Vulong-development"
